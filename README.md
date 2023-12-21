@@ -13,3 +13,7 @@ Portafolio web personal optimizado con SEO y algunas librerias CSS y JavaScript.
 - Implementación de Normalize.css para optimizar los estilos en diferentes navegadores
 - Uso de Open Graph para una mejor presentación al compartir la URL
 - Diseño web responsive
+- Botones para mostar el perfil de Github, Instagram y Linkedin
+- Boton para mostrar el CV en PDF
+- Boton de WhatsApp
+- Botones para ver el codigo de los proyectos
